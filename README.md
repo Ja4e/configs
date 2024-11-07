@@ -1,0 +1,3 @@
+Choose between these two and rename your chosen tlp conf into "tlp.conf"
+
+amd never lagged...
