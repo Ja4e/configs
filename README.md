@@ -42,7 +42,8 @@
 
 - **DO NOT GET A BAD SDR PANEL**  
   - How to spot bad LCD panel:  
-    - Does not have wide grey gradient covers and that dimms and losing details.  
+    - Does not have wide grey gradient covers and that dimms and losing details.
+    - A grey gradient should be over that HDR word in that itchio software... It should looks no bars across the screen...
     - Get at least hdr certified lcd screen instead of any other bullshit dolby vision and other craps.  
     - **HDR OVER DOLBY VISION OR ANY MARKETING SHIT**  
 
