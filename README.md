@@ -12,3 +12,14 @@ Intel's mobile chips consumes a lot of power is because their integrated gpu are
 its not about cheap or expensiveness, it now mre about power efficiency and driver support.
 AMD's gpu driver support are wayyyyyyy better than intels currently. Get that if possible.
 I have a feeling that their intels driver support for these kernal settings are heavily dependent on their hardware itself... if thats so then its hella not recommended if using it for long term. Think about it, your battery die faster if your cpu consumes too much making it more freq in changing battery. So you would need to spend more money on it compared to AMD does. This is not marketing, this is non-biased opinions. Intels cpu has its their own benefits, it performs really good if its on power and compile stuff if theres lots of cores. Yes its twice faster than my ryzen 7 5800H but not of its efficiency by default. TLP should implement more intel settings so we could share and actually make more competitive against AMD.
+
+the gray gradient the wider the less detail looses in videos.
+DO NOT GET A BAD SDR PANEL
+how to spot bad LCD panel:
+  does not have wide grey gradient covers and that dimms and losing details. 
+  get at least hdr certified lcd screen instead of any other bullshit dolby vision and other craps
+  HDR OVER DOLBY VISION OR ANY MARKETING SHIT
+  get a least 100% srgb graded panel 100%DCI is better ofc it defo makes your movie look good
+  HDR400 isnt that bad, it actually helps in a lot of SDR content...
+  ANYTHING up to HDR400 is a must...
+  OLED well if you get HDR certified monitor OLED might not even a necessary...
