@@ -23,7 +23,9 @@
 - **I have a feeling that their intels driver support for these kernal settings are heavily dependent on their hardware itself...**  
   - if thats so then its hella not recommended if using it for long term.  
   - Think about it, your battery die faster if your cpu consumes too much making it more freq in changing battery.  
-  - So you would need to spend more money on it compared to AMD does.  
+  - So you would need to spend more money on it compared to AMD does.
+
+## I AM NOT SURE WHY PEOPLE BUY INTEL CPU IF THEY PLAN TO USE LAPTOP ON BATTERY FOR EXTENDED PERIOD ON LONG TERM?  ITS A VERY INEFFICIENT CPU/GPU UNDER METEOR LAKE SERIES anything under Ultra series... DO NOT BUY DO NOT BUY... You do not use its full potential when on battary right? having high performance cpu with lots of inefficiency factors should be avoided at all costs, for laptops in this case it is better to have very efficient cpu and gpu with glorious driver support in-kernal and software support.  Intel actually has plans not to actually improve their old products... Their hybrid cpu structures schedulers are actually bad well yes its driver problem well the table can still be turned if intel decided to actually improve their driver support significantly to be be able to compete AMDs... Its not to late i guess...
 
 - **This is not marketing, this is non-biased opinions.**  
   - Intels cpu has its their own benefits, it performs really good if its on power and compile stuff if theres lots of cores.  
