@@ -2,6 +2,9 @@
 
 ## Choose between these two and rename your chosen tlp conf into `tlp.conf`
 
+- **um careful on this SATA_LINKPWR_ON_BAT="min_power" setting**
+- it could cause some data corruptions if used on certain hardware
+
 - **AMD never lagged...**
   - btw this actually better than windows...
 
