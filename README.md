@@ -35,7 +35,10 @@
 ## The Gray Gradient and Display Panel Recommendations
 
 - **The gray gradient:**  
-  - The wider the gradient, the less detail looses in videos.  
+  - The wider the gradient, the less detail looses in videos.
+  - HDR pushes these wayy better than SDR does making it lose less visual details on the go
+  - Trust me this is important feature you should not ignore it...
+  - The longer it has the more details you will see
 
 - **DO NOT GET A BAD SDR PANEL**  
   - How to spot bad LCD panel:  
@@ -50,3 +53,5 @@
 
 - **OLED**  
   - Well if you get HDR certified monitor OLED might not even a necessary...
+ 
+https://momoirosoft.itch.io/hdr-demo?download test your monitor with this tool... wel its windows only but its worthwhile to try it out...
