@@ -52,7 +52,7 @@
     - A grey gradient should be over that HDR word in that itchio software... It should looks no bars across the screen...
     - All SDR scrrens will never ever pass that HDR word in grey gradient which located right above the the gradient bar...  Uh its the tool thing where you test for its grey bar gradeient.
     - Get at least hdr certified lcd screen instead of any other bullshit dolby vision and other craps.  
-    - **HDR OVER DOLBY VISION OR ANY MARKETING SHIT**  
+    - **HDR OVER DOLBY VISION OVER ANY MARKETING SHIT**  
 
 - **Get a least 100% sRGB graded panel**  
   - 100%DCI is better ofc it defo makes your movie look good.  
