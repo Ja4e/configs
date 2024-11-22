@@ -50,7 +50,7 @@
   - How to spot bad LCD panel:  
     - Does not have wide grey gradient covers and that dimms and losing details.
     - A grey gradient should be over that HDR word in that itchio software... It should looks no bars across the screen...
-    - All SDR scrrens will never ever pass that HDR word in grey gradient...
+    - All SDR scrrens will never ever pass that HDR word in grey gradient which located right above the the gradient bar...  Uh its the tool thing where you test for its grey bar gradeient.
     - Get at least hdr certified lcd screen instead of any other bullshit dolby vision and other craps.  
     - **HDR OVER DOLBY VISION OR ANY MARKETING SHIT**  
 
