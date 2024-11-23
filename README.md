@@ -66,7 +66,9 @@
 
 - **OLED**  
   - Well if you get HDR certified monitor OLED might not even a necessary...
- 
+
+HDR CERTIFIED MONITOR WILL GET YOU BETTER QUALITY SDR MOVIES FOR SURE
+
 https://momoirosoft.itch.io/hdr-demo?download test your monitor with this tool... wel its windows only but its worthwhile to try it out... Try compare with HDR on and off theres huge difference in visual quality. Yes its supposed to looked more cinematic with hdr. 
 
 Well most of my friend arent friend so technically im friendless...
