@@ -55,6 +55,7 @@
     - **HDR OVER DOLBY VISION OVER ANY MARKETING SHIT**
     - Dolby vision is a nice touch tech but you wont be using it full advantage all the time why have hdr?
     - HDR panel tend to push more grey contrast than SDR without HDR mode on making it look good on any sdr panels out there.
+    - you will be able to use hdr with rtx(nvidia with windows 11 only cmon why no on linux)
 
 - **Get a least 100% sRGB graded panel**  
   - 100%DCI is better ofc it defo makes your movie look good.  
