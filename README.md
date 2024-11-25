@@ -38,6 +38,9 @@
 
 ---
 
+ **Brother Nvidia gpu is actually good the 3000 series sucks too much ppower is because it does not support power saving features which makes it high power consumption on idle** 
+till 4000 series gpu that actually does a lot of differences in power consumption when little or none usages... Hybrid is actually recommended... 5000 series could be an serious upgrade from 4000 series... Its better to wait for 5000 rather than getting 4000 series. 
+
 ## The Gray Gradient and Display Panel Recommendations
 
 - **The gray gradient:**  
