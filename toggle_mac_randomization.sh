@@ -4,11 +4,9 @@
 SERVICE_FILE="/etc/systemd/system/macspoof@.service"
 NM_CONF_FILE="/etc/NetworkManager/conf.d/wifi_rand_mac.conf"
 
-# Function to add the configuration
 add_configuration() {
     echo "Adding MAC address randomization and service configuration..."
 
-    # Create the macspoof service file
     if [ ! -f "$SERVICE_FILE" ]; then
         sudo bash -c "cat > $SERVICE_FILE" <<EOL
 [Unit]
@@ -30,7 +28,6 @@ EOL
         echo "Service file already exists: $SERVICE_FILE"
     fi
 
-    # Create the NetworkManager configuration file
     if [ ! -f "$NM_CONF_FILE" ]; then
         sudo bash -c "cat > $NM_CONF_FILE" <<EOL
 [device-mac-randomization]
@@ -45,29 +42,25 @@ EOL
         echo "NetworkManager configuration file already exists: $NM_CONF_FILE"
     fi
 
-    # Reload systemd and enable the service
     sudo systemctl daemon-reload
-    sudo systemctl enable macspoof@\*
+    #sudo systemctl enable macspoof@*
     echo "MAC spoofing service enabled."
 
     # Restart NetworkManager
     sudo systemctl restart NetworkManager
     echo "NetworkManager restarted with MAC randomization."
+    echo "run: sudo systemctl enable <device name listed under iwconfig>"
 }
 
 
 remove_configuration() {
     echo "Removing MAC address randomization and service configuration..."
-
-    # Remove the macspoof service file
     if [ -f "$SERVICE_FILE" ]; then
         sudo rm -f "$SERVICE_FILE"
         echo "Service file removed: $SERVICE_FILE"
     else
         echo "Service file does not exist: $SERVICE_FILE"
     fi
-
-    # Remove the NetworkManager configuration file
     if [ -f "$NM_CONF_FILE" ]; then
         sudo rm -f "$NM_CONF_FILE"
         echo "NetworkManager configuration file removed: $NM_CONF_FILE"
@@ -75,12 +68,12 @@ remove_configuration() {
         echo "NetworkManager configuration file does not exist: $NM_CONF_FILE"
     fi
 
-    # Reload systemd and disable the service
     sudo systemctl daemon-reload
-    sudo systemctl disable macspoof@\*
+    sudo systemctl disable macspoof@*
     echo "MAC spoofing service disabled."
-
-    # Restart NetworkManager
+    echo "check if your macspoofing is actually disabled..."
+    echo "run this sudo systemctl disable --now macspoof@<your wireless device listed under iwconfig>"
+    
     sudo systemctl restart NetworkManager
     echo "NetworkManager restarted without MAC randomization."
 }
