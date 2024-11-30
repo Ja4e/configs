@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "welcome this is the script that may not or may improve your privacy... yeh its better if using public network... uninstall it if you plan to nat to host a server..."
 # Paths
 SERVICE_FILE="/etc/systemd/system/macspoof@.service"
 NM_CONF_FILE="/etc/NetworkManager/conf.d/wifi_rand_mac.conf"
