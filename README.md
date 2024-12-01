@@ -1,5 +1,7 @@
 # README
 
+Most of my configs pushes and draws the most potentials from your machines
+
 ## Choose between these two and rename your chosen tlp conf into `tlp.conf`
 
 - **um careful on this SATA_LINKPWR_ON_BAT="min_power" setting**
