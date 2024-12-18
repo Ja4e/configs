@@ -1,4 +1,10 @@
 #!/bin/bash
+# if you wanted to run it continuously make a crontab
+#chmod +x /path/to/DNServerUpdator.sh
+#crontab -e
+
+#   ADD:    */5 * * * * /path/to/DNServerUpdator.sh
+
 
 # Configuration Make sure you edit it
 DOMAIN="<YourIP>.duckdns.org"
