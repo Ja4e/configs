@@ -10,9 +10,9 @@ Most of my configs pushes and draws the most potentials from your machines
 - **AMD never lagged...**
   - btw this actually better than windows...
  
--huh
-echo "battery" | sudo tee /sys/class/drm/card0/device/power_dpm_state
-try set this manually im not sure why the tlp didnt enable it
+- huh
+  - echo "battery" | sudo tee /sys/class/drm/card0/device/power_dpm_state
+  - try set this manually im not sure why the tlp didnt enable it
 
 - **Intel tlp conf needed to be tested more throughoutly...**
   - use the kernal setting instead... load in that i915 file...
