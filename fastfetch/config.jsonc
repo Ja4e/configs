@@ -27,6 +27,11 @@
       "keyColor": "31"
     },
     {
+      "type": "uptime",
+      "key": " ├ 󰇭 ",
+      "keyColor": "31"
+    },
+    {
       "type": "shell",
       "key": " └  ",
       "keyColor": "31"
@@ -105,14 +110,14 @@
     },
     "break",
     {
-      "type": "localip",
-      "key": " NETWORK",
+      "type": "wifi",
+      "key": "󰀂 NETWORK",
       "keyColor": "34"
     },
     {
-      "type": "wifi",
-      "key": " ├ 󰀂 ",
-      "keyColor": "34"
+     "type": "localip",
+      "key": " ├ 󰒍 ",
+      "keyColor": "34",
     },
     {
       "type": "dns",
@@ -127,7 +132,8 @@
     {
       "type": "netio",
       "key": " ├ 󱫋 ",
-      "keyColor": "34"
+      "keyColor": "34",
+      "wait-time":100
     },
     {
       "type": "weather",
