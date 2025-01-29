@@ -4,6 +4,15 @@ I support consumers, this blog help you have better experience buying new laptop
 
 Most of my configs pushes and draws the most potentials from your machines
 
+Under linux gnome seems not letting user directly to adjust the scroll speed
+Here you go:
+  toolkit.scrollbox.verticalScrollDistance from 3 to 1  (Keyboard Arrow scroll)
+  mousewheel.min_line_scroll_amount to 150 
+  mousewheel.default.delta_multiplier
+          Where it shows x, y and z and change them to 25
+  definitely a life changing settings
+
+
 ## Choose between these two and rename your chosen tlp conf into `tlp.conf`
 
 - **um careful on this SATA_LINKPWR_ON_BAT="min_power" setting**
