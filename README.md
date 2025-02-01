@@ -5,7 +5,7 @@ I support consumers, this blog help you have better experience buying new laptop
 Most of my configs pushes and draws the most potentials from your machines
 
 Making title bar thinner and darker in gnome
-``windowhandle box {
+`windowhandle box {
         padding-top: 0;
         padding-bottom: 0;
 }
@@ -14,7 +14,7 @@ Making title bar thinner and darker in gnome
     color: #79ACB7; /* White text */
     min-height: 0px;
     padding: 0;
-}``
+}`
 
 Under linux gnome seems not letting user directly to adjust the scroll speed
 - Here you go:
