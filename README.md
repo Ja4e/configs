@@ -4,6 +4,18 @@ I support consumers, this blog help you have better experience buying new laptop
 
 Most of my configs pushes and draws the most potentials from your machines
 
+Making title bar thinner and darker in gnome
+``windowhandle box {
+        padding-top: 0;
+        padding-bottom: 0;
+}
+.titlebar {
+    background-color: #000000; /* Pure black */
+    color: #79ACB7; /* White text */
+    min-height: 0px;
+    padding: 0;
+}``
+
 Under linux gnome seems not letting user directly to adjust the scroll speed
 - Here you go:
   - toolkit.scrollbox.verticalScrollDistance from 3 to 1  (Keyboard Arrow scroll)
