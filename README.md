@@ -93,6 +93,7 @@ till 4000 series gpu that actually does a lot of differences in power consumptio
   - 100%DCI is better ofc it defo makes your movie look good.  
   - HDR400 isnt that bad, it actually helps in a lot of SDR content...  
   - ANYTHING up to HDR400 is a must... REGARDLESS OF NOT HAVE NO DOLBY VISION SUPPORT OR SHITS well dolby vision has good sites but IT WILL NOT WORK ALL THE TIME IT ONLY APPLIES TO MEDIAS THAT HAS DOLBY VISION HDR ENCODING. ALSO THEIR MARKETING ARE SHIT, IF THE MONITOR DOES NOT HAVE HDR BUT DOLBY VISION SUPPORTED IT WILL STILL NOT GOING TO DISPLAY HDR FOR YOU. THERE ARE TWO TYPES OF DOLBYVISION, THERES DOLBYVISION HDR and DOLBYVISION. Careful when buying new panels...
+  - Dolby vision only works on monitors that hs FRC with a least 8 bit (need supported display controller as well)
   - HDR certified panel looked gorgeous on linux even thought it doesnt support hdr yet
   - use my mpv configs
 
